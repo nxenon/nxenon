@@ -23,7 +23,7 @@
 [go]: https://go.dev/
 [goland]: https://www.jetbrains.com/go/
 [linux]: https://ubuntu.com/
-[blue team techs]: https://wiki.sans.blue/
+[blue team techs]: https://www.sans.org/cyber-security-skills-roadmap/
 [cisco]: https://www.cisco.com/
 [splunk]: https://www.splunk.com/
 [wireshark]: https://www.wireshark.org/
