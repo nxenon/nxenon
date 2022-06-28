@@ -8,7 +8,7 @@
 - I also have read some stuff about network and security, but for some reason I did not get the certificate for them : `Network+`, `MCSE`, `CCNA`, `SSCP` &...  
 - I'm also learning German language.
 
-[ ![nxenon](https://www.hackthebox.com/badge/image/280900)](https://app.hackthebox.com/users/280900)
+[ ![nxenon](https://www.hackthebox.com/badge/image/280900)](https://app.hackthebox.com/profile/280900)
 
 <img src="https://github-readme-stats.vercel.app/api?username=nxenon&show_icons=true"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nxenon"/>
