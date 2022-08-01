@@ -1,6 +1,6 @@
 ### Hallo, It's Amin
 
-## I'm An Researcher in Network & Security Stuff.
+## Cyber-Security Researcher.
 
 ### Currently, Working as a Pentester
 
