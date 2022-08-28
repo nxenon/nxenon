@@ -1,4 +1,4 @@
-### Hallo, It's Amin
+### It's Amin
 
 ## Cyber-Security Researcher
 
