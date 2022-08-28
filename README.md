@@ -4,11 +4,11 @@
 
 ### Currently, Working as a Pentester
 
-- I love working on security bugs, CTFs & 🔴 Red Teaming tools.
-- I learn from programming because I love it :)
-- Experienced in [Python][python], [Flutter][flutter], [Blue Team Techniques][blue team techs], [Powershell][powershell], [Scapy][scapy], [Network Analyzing][wireshark], [Flask][flask], [Discord Bots][discord bots], [Git][git], [Better Discord Plugins][better discord plugins], [Nodejs][nodejs], [Express][express], [Bootstrap][bootstrap], [Go][go], [Linux][linux], [Cisco][cisco], [Splunk][splunk]
-- I have read some stuff about network and security, but for some reason I did not get the certificate for them : `Network+`, `MCSE`, `CCNA`, `SSCP` &...  
-- I'm also learning German language.
+- 🔴 I love working on security bugs, CTFs & Red Teaming tools.
+- 💡 I learn from programming because I love it :)
+- 🥼 Experienced in [Python][python], [Flutter][flutter], [Blue Team Techniques][blue team techs], [Powershell][powershell], [Scapy][scapy], [Network Analyzing][wireshark], [Flask][flask], [Discord Bots][discord bots], [Git][git], [Better Discord Plugins][better discord plugins], [Nodejs][nodejs], [Express][express], [Bootstrap][bootstrap], [Go][go], [Linux][linux], [Cisco][cisco], [Splunk][splunk]
+- 📄 I have read some stuff about network and security, but for some reason I did not get the certificate for them : `Network+`, `MCSE`, `CCNA`, `SSCP` &...  
+- 🚩 I'm also learning German language.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nxenon&layout=compact"/> [ ![nxenon](https://www.hackthebox.com/badge/image/280900)](https://app.hackthebox.com/profile/280900)
 
