@@ -1,7 +1,6 @@
 ### It's Amin
 
 ## Cyber-Security Researcher
-<img src="https://user-images.githubusercontent.com/61124903/187397960-285ef0fa-51d9-4cac-8102-4536a5af7002.png" width=50 height=50/>&nbsp;
 <img src="https://user-images.githubusercontent.com/61124903/187405052-1a08da05-8db0-4547-a75f-1e95fd35fe51.png" width=60 height=50/>&nbsp;
 <img src="https://user-images.githubusercontent.com/61124903/187406068-3ec3f1c7-3974-4c14-8af3-067d1fda93e1.png" width=60 height=50/>&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/61124903/187402333-ded325d4-ec1e-4803-b475-3c3b3c809515.png" width=50 height=50/>&nbsp;&nbsp;&nbsp;
@@ -13,7 +12,7 @@
 
 ### Currently, Working as a Pentester
 
-- 🔴 I love working on security bugs, CTFs & Red Teaming tools.
+- 🔴 I love working on security bugs, CTFs & Pentesting tools.
 - 💻 I Love Programming :)
 - ⚡ Experienced in [Python][python], [Flutter][flutter], [Blue Team Techniques][blue team techs], [Powershell][powershell], [Scapy][scapy], [Network Analyzing][wireshark], [Flask][flask], [Discord Bots][discord bots], [Git][git], [Better Discord Plugins][better discord plugins], [Nodejs][nodejs], [Express][express], [Bootstrap][bootstrap], [Go][go], [Linux][linux], [Cisco][cisco], [Splunk][splunk]
 - 📄 I have read some stuff about network and security, but for some reason I did not get the certificate for them : `Network+`, `MCSE`, `CCNA`, `SSCP` &...  
