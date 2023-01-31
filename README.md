@@ -1,6 +1,6 @@
 ### It's Amin
 
-## Cyber-Security Researcher
+## Penetration Tester
 <img src="https://user-images.githubusercontent.com/61124903/187405052-1a08da05-8db0-4547-a75f-1e95fd35fe51.png" width=60 height=50/>&nbsp;
 <img src="https://user-images.githubusercontent.com/61124903/187406068-3ec3f1c7-3974-4c14-8af3-067d1fda93e1.png" width=60 height=50/>&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/61124903/187402333-ded325d4-ec1e-4803-b475-3c3b3c809515.png" width=50 height=50/>&nbsp;&nbsp;&nbsp;
@@ -14,9 +14,10 @@
 
 - 🔴 I love working on security bugs, CTFs & Pentesting tools.
 - 💻 I Love Programming :)
-- ⚡ Experienced in [Python][python], [Flutter][flutter], [Blue Team Techniques][blue team techs], [Powershell][powershell], [Scapy][scapy], [Network Analyzing][wireshark], [Flask][flask], [Discord Bots][discord bots], [Git][git], [Better Discord Plugins][better discord plugins], [Nodejs][nodejs], [Express][express], [Bootstrap][bootstrap], [Go][go], [Linux][linux], [Cisco][cisco], [Splunk][splunk]
+- ⚡ Experienced in Web Systems and Web Services Penetration Testing, Security Audits, [Python][python], [Flask][flask], [Scapy][scapy], [Go][go], [Nodejs][nodejs], [Express][express], [Git][git], [Linux][linux], [Cisco][cisco], [Blue Team Techniques][blue team techs], [Powershell][powershell], [Network Analyzing][wireshark], [Splunk][splunk]
 - 📄 I have read some stuff about network and security, but for some reason I did not get the certificate for them : `Network+`, `MCSE`, `CCNA`, `SSCP` &...  
-- 🇩🇪 I'm also learning German language.
+- 🇺🇸 English IELTS (6.0)
+- 🇩🇪 I'm also learning German language (B1).
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nxenon&layout=compact"/>[ ![nxenon](https://www.hackthebox.com/badge/image/280900)](https://app.hackthebox.com/profile/280900)
 
@@ -26,19 +27,14 @@
 [python]: https://www.python.org/
 [scapy]: https://scapy.net/
 [flask]: https://flask.palletsprojects.com/
-[discord bots]: https://discordpy.readthedocs.io/
 [github]: https://github.com/
 [git]: https://git-scm.com/
-[better discord plugins]: https://betterdiscord.app/
 [nodejs]: https://nodejs.org/
 [express]: https://expressjs.com/
-[bootstrap]: https://getbootstrap.com/
 [go]: https://go.dev/
-[goland]: https://www.jetbrains.com/go/
 [linux]: https://ubuntu.com/
 [blue team techs]: https://www.sans.org/cyber-security-skills-roadmap/
 [cisco]: https://www.cisco.com/
 [splunk]: https://www.splunk.com/
 [wireshark]: https://www.wireshark.org/
 [powershell]: https://docs.microsoft.com/en-us/powershell/ 
-[flutter]: https://flutter.dev/
