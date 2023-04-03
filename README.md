@@ -16,7 +16,7 @@
 - 💻 I Love Programming :)
 - ⚡ Experienced in Web Systems and Web Services Penetration Testing, Security Audits, [OWASP WSTG][owasp], [Burp Suite][burpsuite], [Python][python], [Flask][flask], [Scapy][scapy], [Go][go], [Gofiber][gofiber], [Nodejs][nodejs], [Express][express], [Git][git], [Linux][linux], [Cisco][cisco], [Blue Team Techniques][blue team techs], [Powershell][powershell], [Network Analyzing][wireshark]
 - 📄 I have read some stuff about network and security, but for some reason I did not get the certificate for them : `Network+`, `MCSE`, `CCNA`, `SSCP` &...  
-- 🇺🇸 English IELTS (6.0)
+- 🇺🇸 English IELTS (6.0) - Duolingo English (110)
 - 🇩🇪 I'm also learning German language (B1).
 
 <div align="center">
