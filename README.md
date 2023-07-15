@@ -18,6 +18,10 @@
 - 🇺🇸 English IELTS (6.0) - Duolingo English (110)
 - 🇩🇪 Ich lerne auch Deutsch (B1)
 
+### Current Status
+
+- Researching on GRPC, GRPC-Web Pentesting
+
 <div align="center">
 
 [ ![nxenon](https://www.hackthebox.com/badge/image/280900)](https://app.hackthebox.com/profile/280900)
