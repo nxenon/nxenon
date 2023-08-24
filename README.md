@@ -13,7 +13,7 @@
 ### Experienced web application penetration tester with 2+ years of hands-on security assessment and auditing experience.
 
 - 🔴 Working on security bugs, CTFs & Pentesting tools.
-- ⚡ Experienced in Web Applications and Web Services Penetration Testing, Security Audits, [OWASP WSTG][owasp], [Burp Suite][burpsuite], [Python][python], [Flask][flask], [Scapy][scapy], [Go][go], [Gofiber][gofiber], [Nodejs][nodejs], [Express][express], [Git][git], [Linux][linux] and ...
+- ⚡ Experienced in Web Applications and Web Services Penetration Testing and Security Audits
 - 📄 I have read bunch of books and participated in some courses in networking and security, but for some reason I did not get the certificate for them : `Network+`, `MCSE`, `CCNA`, `SSCP` &...  
 - 🇺🇸 English IELTS (6.0) - Duolingo English (110)
 - 🇩🇪 Ich lerne auch Deutsch (B1)
