@@ -7,12 +7,10 @@
 <img src="https://user-images.githubusercontent.com/61124903/187402333-ded325d4-ec1e-4803-b475-3c3b3c809515.png" width=50 height=50/>&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/61124903/187406543-924276ff-0de5-4f9a-aeba-f56e3cc59b3c.png" width=60 height=58/>&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/67065043/187403233-eb74d324-dcef-4f3d-acb8-c7fbc5cce457.png" width=60 height=60/>&nbsp;&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/61124903/187401624-ae1cf8d0-9296-4ea4-ba20-08d6b81b08bb.png" width=80 height=45/>
 
 
-### Experienced web application penetration tester with 2+ years of hands-on security assessment and auditing experience.
-
-- ⚡ Experienced in Web Applications and Web Services Penetration Testing and Security Audits  
+#### Experienced web application penetration tester with 2+ years of hands-on security assessment and auditing experience.
+ 
 - 🇺🇸 English IELTS (6.0) - Duolingo English (110)
 - 🇩🇪 Ich lerne auch Deutsch (B1)
 
