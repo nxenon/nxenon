@@ -16,7 +16,7 @@
 
 ### Current Status
 
-- Researching on GRPC, GRPC-Web Pentesting
+- Researching on gRPC, gRPC-Web Pentesting
 
 <div align="center">
 
