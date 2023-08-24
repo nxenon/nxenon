@@ -32,9 +32,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nxenon&layout=compact"/>
 </div>
 
-  
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nxenon&show_icons=true"/>
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nxenon"/>
