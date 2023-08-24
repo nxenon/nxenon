@@ -12,7 +12,6 @@
 
 ### Experienced web application penetration tester with 2+ years of hands-on security assessment and auditing experience.
 
-- 🔴 Working on security bugs, CTFs & Pentesting tools.
 - ⚡ Experienced in Web Applications and Web Services Penetration Testing and Security Audits  
 - 🇺🇸 English IELTS (6.0) - Duolingo English (110)
 - 🇩🇪 Ich lerne auch Deutsch (B1)
