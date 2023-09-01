@@ -17,6 +17,7 @@
 ### Current Status
 
 - Researching on gRPC, gRPC-Web Pentesting
+- Starting Web3
 
 <div align="center">
 
