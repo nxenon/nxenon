@@ -16,8 +16,9 @@
 
 ### Current Status
 
-- Researching on gRPC, gRPC-Web Pentesting
-- Starting Web3
+- Researching on **gRPC-Web** Pentesting Methodology
+- Focusing on **DevSecOps** implementation at the company where I work
+- Starting **Web3**
 
 <div align="center">
 
