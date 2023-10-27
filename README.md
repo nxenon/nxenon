@@ -9,16 +9,15 @@
 <img src="https://user-images.githubusercontent.com/67065043/187403233-eb74d324-dcef-4f3d-acb8-c7fbc5cce457.png" width=60 height=60/>&nbsp;&nbsp;&nbsp;
 
 
-#### Experienced web application penetration tester with 2+ years of hands-on security assessment and auditing experience
+Experienced web application penetration tester with 2+ years of hands-on security assessment and auditing experience:
  
-- 🇺🇸 English IELTS (6.0) - Duolingo English (110)
+- 🇺🇸 English IELTS (6.5) - Duolingo English (110)
 - 🇩🇪 Ich lerne auch Deutsch (B1)
 
-### Current Status
+Current Status:
 
-- Researching on **gRPC-Web** Pentesting Methodology
 - Focusing on **DevSecOps** implementation at the company where I work
-- Starting **Web3**
+- Researching on HTTP/2 Single Packet Attack
 
 <div align="center">
 
