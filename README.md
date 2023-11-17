@@ -1,6 +1,6 @@
 ### It's Amin (Xenon)
 
-Application Security Engineer | Bug Hunter
+Application Security Engineer | Cyber Security Researcher
 -
 <img src="https://user-images.githubusercontent.com/61124903/215664747-c514b3b1-1c74-4aff-94fd-762ca48d2bfe.png" width=60 height=50/>&nbsp;
 <img src="https://user-images.githubusercontent.com/61124903/187405052-1a08da05-8db0-4547-a75f-1e95fd35fe51.png" width=60 height=50/>&nbsp;
