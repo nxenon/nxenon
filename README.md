@@ -19,8 +19,6 @@ Current Status:
 
 - Focusing on **DevSecOps** implementation at the company where I work
   - [DevSecOps Notes](https://github.com/nxenon/DevSecOps)
-- Researching on HTTP/2 Single Packet Attack
-  - [H2SpaceX Tool](https://github.com/nxenon/h2spacex) 
 
 <div align="center">
 
