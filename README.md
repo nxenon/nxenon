@@ -10,7 +10,7 @@ Application Security Engineer | Web Security Researcher
 <img src="https://user-images.githubusercontent.com/67065043/187403233-eb74d324-dcef-4f3d-acb8-c7fbc5cce457.png" width=60 height=60/>&nbsp;&nbsp;&nbsp;
 
 
-Experienced application security engineer | web application penetration tester with 2+ years of hands-on security assessment and auditing experience:
+Experienced application security engineer | web application penetration tester with 3+ years of hands-on security assessment and auditing experience:
  
 - 🇺🇸 English IELTS (6.5) - Duolingo English (110)
 - 🇩🇪 Ich lerne auch Deutsch (B2)
