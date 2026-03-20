@@ -41,6 +41,18 @@ Focused on integrating security into the software development lifecycle through 
 
 ---
 
+## Languages
+
+- English (IELTS 6.5, Duolingo 110)
+- German (B2)
+
+---
+
+## Contact
+
+email: nasiri.aminm@gmail.com
+
+---
 ## Status
 
 <div align="center">
@@ -59,16 +71,3 @@ Focused on integrating security into the software development lifecycle through 
 <div align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nxenon&theme=radical"/>
 </div>
-
----
-
-## Languages
-
-- English (IELTS 6.5, Duolingo 110)
-- German (B2)
-
----
-
-## Contact
-
-email: nasiri.aminm@gmail.com
