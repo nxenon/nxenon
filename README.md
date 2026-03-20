@@ -41,10 +41,24 @@ Focused on integrating security into the software development lifecycle through 
 
 ---
 
-## Labs
+## Status
 
-Hack The Box:
-https://app.hackthebox.com/profile/280900
+<div align="center">
+
+[ ![nxenon](https://www.hackthebox.com/badge/image/280900)](https://app.hackthebox.com/profile/280900)
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nxenon&layout=compact"/>
+</div>
+
+</div>
+<div align="center">
+
+<div align="center">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nxenon&theme=radical"/>
+</div>
 
 ---
 
