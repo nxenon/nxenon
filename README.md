@@ -40,6 +40,10 @@ Focused on integrating security into the software development lifecycle through 
 - Golang
 
 ---
+## Latest Research
+visit [aminnasiri.com](https://aminnasiri.com)
+
+---
 
 ## Languages
 
