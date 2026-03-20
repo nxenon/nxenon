@@ -1,32 +1,60 @@
-### It's Amin (Xenon)
+# Amin (Xenon)
 
-Application Security (DevSecOps) Engineer | Web Security Researcher
--
+Application Security Engineer | DevSecOps | Web Security
 
-Experienced application security engineer with 5+ years of hands-on security assessment and auditing experience:
- 
-- 🇺🇸 English IELTS (6.5) - Duolingo English (110)
-- 🇩🇪 Ich lerne auch Deutsch (B2)
+---
 
-Current Status:
+## About
 
-- Focusing on **DevSecOps** implementation at the company where I work
-  - [DevSecOps Notes](https://github.com/nxenon/DevSecOps)
+Application Security Engineer with 5+ years of experience in security assessment, code review, and web application testing.
 
-<div align="center">
+Focused on integrating security into the software development lifecycle through DevSecOps practices, automation, and secure architecture design.
 
-[ ![nxenon](https://www.hackthebox.com/badge/image/280900)](https://app.hackthebox.com/profile/280900)
+---
 
-</div>
+## Current Focus
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nxenon&layout=compact"/>
-</div>
+- Designing and implementing DevSecOps pipelines
+- Automating security testing in CI/CD environments
+- Improving secure coding practices across development teams
+- Researching modern web vulnerabilities and attack techniques
 
-</div>
-<div align="center">
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nxenon"/>
-</div> -->
-<div align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nxenon&theme=radical"/>
-</div>
+---
+
+## Skills
+
+**Security**
+- Web Application Security Testing (Pentest)
+- Code Review (SAST)
+- Dynamic Analysis (DAST)
+- Threat Modeling
+
+**DevSecOps**
+- CI/CD Security Integration
+- Security Automation
+- Pipeline Hardening
+
+**Languages**
+- Python
+- JavaScript
+- Golang
+
+---
+
+## Labs
+
+Hack The Box:
+https://app.hackthebox.com/profile/280900
+
+---
+
+## Languages
+
+- English (IELTS 6.5, Duolingo 110)
+- German (B2)
+
+---
+
+## Contact
+
+email: nasiri.aminm@gmail.com
